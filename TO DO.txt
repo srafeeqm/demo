@@ -1,0 +1,18 @@
+linux - completed
+github - 5-10-24 
+jenkins - 
+docker -
+aws 
+terraform
+kubernetes
+shell scripting
+python scriptin
+
+
+
+
+github-
+
+before joining the company discuus about raising PR,review and merge.
+
+learn prehook 
